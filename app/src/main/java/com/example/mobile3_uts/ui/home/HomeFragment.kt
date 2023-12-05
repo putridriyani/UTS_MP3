@@ -43,8 +43,8 @@ class HomeFragment : Fragment() {
         popularList.add(Popular(R.drawable.popular_1, "Full Shot Stretching Arm", "Beginner", "30 min"))
         popularList.add(Popular(R.drawable.popular_2, "Athlete Practicing Monochrome", "Beginner", "50 min"))
 
-        // Tambahkan item-item lainnya sesuai kebutuhan
 
         return popularList
     }
+
 }

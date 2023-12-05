@@ -336,6 +336,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Yoga"
+                                android:textColor="@color/black"
                                 android:layout_gravity="center"
                                 />
 
@@ -356,6 +357,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Gym"
+                            android:textColor="@color/black"
                             android:layout_gravity="center"
                             />
 
@@ -376,6 +378,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Cardio"
+                                android:textColor="@color/black"
                                 android:layout_gravity="center"
                                 />
 
@@ -396,6 +399,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Strecth"
+                                android:textColor="@color/black"
                                 android:layout_gravity="center"
                                 />
 
@@ -416,6 +420,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Full Body"
+                                android:textColor="@color/black"
                                 android:layout_gravity="center"
                                 />
 
@@ -436,6 +441,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Aerobics"
+                                android:textColor="@color/black"
                                 android:layout_gravity="center"/>
 
                         </LinearLayout>
